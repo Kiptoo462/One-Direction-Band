@@ -12,3 +12,10 @@ h1 {
   border-color: rgb(209, 204, 204);
   text-align: center;
 }
+#introduction img{
+  width: 800px;
+}
+#introduction {
+  font-size: 18px;
+  font-family: sans-serif;
+}
