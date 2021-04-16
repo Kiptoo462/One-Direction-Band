@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(228, 227, 240);
+  margin: 5% 10% 20% 5%;
+  padding:20px ;
+  border-style: solid;
+}
+h1 {
+  font-size: 40px;
+  font-weight: 900;
+  color: rgb(44, 22, 95);
+  border-style: solid;
+  border-color: rgb(209, 204, 204);
+  text-align: center;
+}
