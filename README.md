@@ -1,5 +1,5 @@
 # One Direction Band Fan Site
-#### A fan site for one direction band to help me practice concepts in web development, {Date of current version}
+#### A fan site for one direction band to help me practice concepts in web development, 16 Apr 2021
 #### By **Kiptoo Victor**
 ## Description
 
