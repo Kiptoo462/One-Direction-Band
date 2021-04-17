@@ -15,6 +15,6 @@ HTML and CSS
 ## Support and contact details
 victor.kiptoo@student.moringaschool.com
 ### License
-*Licensed under the [MIT LICENSE](LICENSE)*
+*Licensed under the [MIT LICENSE](LICENSE.txt)*
 Copyright (c) 2021 **Kiptoo Victor**
   
