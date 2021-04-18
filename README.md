@@ -15,7 +15,7 @@ HTML and CSS
 ## Support and contact details
 victor.kiptoo@student.moringaschool.com
 ##My gh-pages link
-*[https://kiptoo462.github.io/One-Direction-Band/]
+[https://kiptoo462.github.io/One-Direction-Band/]
 ### License
 *Licensed under the [MIT LICENSE](LICENSE.txt)*
 Copyright (c) 2021 **Kiptoo Victor**
