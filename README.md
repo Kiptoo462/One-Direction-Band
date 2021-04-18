@@ -14,8 +14,13 @@ This application is a fan site for One Direction band. It contains information a
 HTML and CSS
 ## Support and contact details
 victor.kiptoo@student.moringaschool.com
+
 ##My gh-pages link
+<<<<<<< HEAD
 [https://kiptoo462.github.io/One-Direction-Band/]
+=======
+https://kiptoo462.github.io/One-Direction-Band/
+>>>>>>> f8ab594f787c871c8994872c93b2bf8f7f56bd23
 ### License
 *Licensed under the [MIT LICENSE](LICENSE.txt)*
 Copyright (c) 2021 **Kiptoo Victor**
