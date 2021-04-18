@@ -7,7 +7,6 @@ This application is a fan site for One Direction band. It contains information a
 ## Setup/Installation Requirements
 * Visual Studio Code
 * Browser
-
 ## Known Bugs
 
 ## Technologies Used
@@ -16,7 +15,7 @@ HTML and CSS
 victor.kiptoo@student.moringaschool.com
 
 ##My gh-pages link
-[https://kiptoo462.github.io/One-Direction-Band]
+[https://kiptoo462.github.io/One-Direction-Band/]
 ### License
 *Licensed under the [MIT LICENSE](LICENSE.txt)*
 Copyright (c) 2021 **Kiptoo Victor**
